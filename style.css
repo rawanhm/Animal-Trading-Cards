@@ -1,0 +1,37 @@
+.card{
+    width: 400px ;
+    border: 2px solid gray;
+   background-color:  rgba(182, 225, 225, 0.283);
+   padding: 10px ;
+}
+body{
+    position:unset;
+}
+.BRIEF{
+    border: 2px solid gray;
+    background-color:  rgba(209, 231, 231, 0.03);
+    padding: 20px ;
+  
+}
+#intresting{
+ font-style: italic;
+ padding: 20px ;
+}
+img{
+    width: 300px;
+    height: 200px ; 
+    padding: 20px ;
+    text-align:center;
+}
+h3{
+    padding: 20px ;
+}
+.describtion{
+    padding: 20px;
+}
+li{
+    list-style: none;
+}
+span{
+font-weight: bold ;
+}
